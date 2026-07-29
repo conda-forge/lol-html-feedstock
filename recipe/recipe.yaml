@@ -1,5 +1,5 @@
 context:
-  version: "3.0.0"
+  version: "3.0.1"
 
 package:
   name: lol-html
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/cloudflare/lol-html/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 41ed4231fd05b1c73c0664f1f05f18b0d96a34aabf488e6cb601c3bdc7306af9
+  sha256: 76b29b987ede8ea8971edf4a07a0e2edf5a1dfe21a8d2c073f6534d01b2f5c9f
 
 build:
   number: 0
